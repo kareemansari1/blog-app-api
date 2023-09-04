@@ -1,0 +1,8 @@
+com.kareem.blog
+com.kareem.blog.controllers
+com.kareem.blog.entities
+com.kareem.blog.exceptions
+com.kareem.blog.payloads
+com.kareem.blog.repositories
+com.kareem.blog.services
+com.kareem.blog.services.impl
